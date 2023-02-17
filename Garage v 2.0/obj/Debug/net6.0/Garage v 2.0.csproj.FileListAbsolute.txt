@@ -1,0 +1,28 @@
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\appsettings.json
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Garage v 2.0.exe
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Garage v 2.0.deps.json
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Garage v 2.0.runtimeconfig.json
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Garage v 2.0.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Garage v 2.0.pdb
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.csproj.AssemblyReference.cache
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.AssemblyInfoInputs.cache
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.AssemblyInfo.cs
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.csproj.CoreCompileInputs.cache
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\scopedcss\bundle\Garage v 2.0.styles.css
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.csproj.CopyComplete
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\refint\Garage v 2.0.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.pdb
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\Garage v 2.0.genruntimeconfig.cache
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\obj\Debug\net6.0\ref\Garage v 2.0.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\API CORE projects with c# sql js ajax json html css\Newer Projects\Garage v 2.0\Garage v 2.0\bin\Debug\net6.0\Newtonsoft.Json.dll
